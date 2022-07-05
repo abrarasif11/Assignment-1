@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.banner{
+    width: 85%;
+    background-image: url(donate-today-main/images/BANGLADESH-FLOODING-AID-SHORTAGE.jpg);
+    text-align: center;
+    color: white;
+    padding-right: 100px;
+    padding-left: 85px;
+    padding-top: 300px;
+    padding-block-end: 100px;
+    font-size: xx-large;
+    font-weight: 100px;
+}
+#font{
+    text-align: center;
+    font-size: small;
+}
+#button{
+    text-decoration: none;
+    color: azure;
+    background-color: rgb(219, 87, 72);
+    border-radius: 8px;
+    padding: 10px 10px 10px 10px;
+    font-size: smaller;
+}
+    
