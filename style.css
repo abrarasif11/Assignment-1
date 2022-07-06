@@ -98,6 +98,7 @@ background-color: red;
 }
 .donate1{
     text-align: center;
+    margin-top: 120px;
 }
 #items{
     font-family: Arial, Helvetica, sans-serif;
@@ -125,6 +126,7 @@ background-color: red;
     padding-bottom: 40px;
     margin: 60px;
     width: 50%;
+    margin-top: 50px;
 }
 #pic2{
     width: 20%;
@@ -182,6 +184,7 @@ background-color: red;
 }
 .update{
     text-align: center;
+    margin-top: 100px;
 }
 .mail{
     background-color: bisque;
