@@ -19,13 +19,13 @@ body{
 #font{
     text-align: center;
     font-size: small;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family:Arial, Helvetica, sans-serif
     
 }
 #button{
     text-decoration: none;
+background-color: red;
     color: azure;
-    background-color: rgb(219, 87, 72);
     border-radius: 8px;
     padding: 10px 10px 10px 10px;
     font-size: smaller;
@@ -76,7 +76,7 @@ body{
     text-align: center;
     background-color:rgba(204, 202, 202, 0.849);
     margin-left: 0.5%;
-    margin-right: 28%;
+    margin-right: 2%;
     margin-top:50px;
     padding: 30px 30px 25px 35px;
     border-radius: 15px;
@@ -84,7 +84,7 @@ body{
 .amount1{
     padding-top: 10px;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .box1{
     padding-top: 10px;
@@ -100,7 +100,7 @@ body{
     text-align: center;
 }
 #items{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: small;
 }
 .food{
@@ -178,25 +178,25 @@ body{
 }
 #font1{
     font-size: medium;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .update{
     text-align: center;
 }
 .mail{
-    background-color: rgb(156, 151, 151);
+    background-color: bisque;
     text-align: center;
     width: 50%;
     margin-left: 350px;
     height: 110px;
 }
 #font2{
-    color: rgb(156, 151, 151);
+    color: bisque
 }
 #font3{
-    background-color: rgb(179, 174, 174);
+    background-color: bisque;
     width: 50%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:Arial, Helvetica, sans-serif ;
     font-size: small;
     margin-left: 200px;
     padding-top: 10px;
@@ -216,10 +216,13 @@ footer{
 #spn{
     color: ghostwhite;
     font-size: small;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
 }
 #font9{
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     font-size: small;
+}
+.color{
+    color: navy;
 }
