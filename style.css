@@ -184,14 +184,14 @@ body{
     text-align: center;
 }
 .mail{
-    background-color: rgb(143, 135, 135);
+    background-color: rgb(156, 151, 151);
     text-align: center;
     width: 50%;
     margin-left: 350px;
     height: 110px;
 }
 #font2{
-    color: rgb(143, 135, 135);
+    color: rgb(156, 151, 151);
 }
 #font3{
     background-color: rgb(179, 174, 174);
@@ -204,4 +204,17 @@ body{
     border-radius: 5px;
     text-align: left;
     padding-left: 5px;
+}
+footer{
+    background-color: black;
+    color: red;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 100px;
+    padding-bottom: 20px;
+}
+#spn{
+    color: ghostwhite;
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
