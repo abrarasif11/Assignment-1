@@ -2,20 +2,24 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 .banner{
-    width: 85%;
-    background-image: url(donate-today-main/images/BANGLADESH-FLOODING-AID-SHORTAGE.jpg);
+    background-image: url(donate-today-main/images/1657077040036.jpeg);
     text-align: center;
     color: white;
-    padding-right: 100px;
-    padding-left: 85px;
-    padding-top: 300px;
-    padding-block-end: 100px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 180px;
+    padding-block-end: 80px;
     font-size: xx-large;
     font-weight: 100px;
+    width: 100%;
+    
+    background-size: cover;
 }
 #font{
     text-align: center;
     font-size: small;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
 }
 #button{
     text-decoration: none;
@@ -25,4 +29,63 @@ body{
     padding: 10px 10px 10px 10px;
     font-size: smaller;
 }
+#donate{
+    margin-top: 100px;
+    text-align: center;
+}
+.amount{
+    display: flex;
+    text-align: center;
     
+}
+#tk1{
+    display: flex;
+    text-align: center;
+    background-color:rgba(204, 202, 202, 0.849);
+    margin-left: 28%;
+    margin-right: 2%;
+    margin-top:50px;
+    padding: 30px 30px 25px 35px;
+}
+#tk2{
+    display: flex;
+    text-align: center;
+    background-color: pink;
+    border: palevioletred 2px solid;
+    margin-left: 0.5%;
+    margin-right: 2%;
+    margin-top:50px;
+    padding: 30px 30px 25px 35px;
+
+}
+#tk3{
+    display: flex;
+    text-align: center;
+    margin-left: 0.5%;
+    margin-right: 2%;
+    margin-top:50px;
+    padding: 30px 30px 25px 35px;
+    background-color:rgba(204, 202, 202, 0.849);
+}
+#tk4{
+    display: flex;
+    text-align: center;
+    background-color:rgba(204, 202, 202, 0.849);
+    margin-left: 0.5%;
+    margin-right: 28%;
+    margin-top:50px;
+    padding: 30px 30px 25px 35px;
+}
+.amount1{
+    text-align: center;
+}
+.box1{
+    padding-top: 10px;
+    background-color: azure;
+    margin-top: 40px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+    border-block-end: black 10px;
+}
